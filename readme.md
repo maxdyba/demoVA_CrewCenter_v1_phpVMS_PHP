@@ -1,3 +1,5 @@
+# !DEMO VA HAS BEEN MOVED OVER TO phpVMS3 and VAOS
+
 ![demoVA](http://i.imgur.com/HSzEXHE.png)
 
 ### FOR THE *.TPL* VERSION [CLICK HERE!](http://www.github.com) <------Not up yet-
